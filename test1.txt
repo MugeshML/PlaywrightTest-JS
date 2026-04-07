@@ -1,1 +1,2 @@
 This is new file with JS to be in Git
+New line for gitgit
